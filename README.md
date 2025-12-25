@@ -5,3 +5,6 @@
 - Install Tailwind css
 - Install DaisyUI Lib
 - Added Nav component from daisyUI
+- Install React Router DOM
+- create Browser Route > Routes
+- added outlet for childer path
